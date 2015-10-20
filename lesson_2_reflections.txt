@@ -6,3 +6,8 @@ A hidden directory (.git) is added to the working directory. To git to be able t
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area only has the files to be commited. The working area has all the actual files and the repository has the version-controlles files grouped in commits. 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can include in the staging area all the files affected by one logical change and then execute the commit command.
