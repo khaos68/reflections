@@ -11,3 +11,8 @@ The staging area only has the files to be commited. The working area has all the
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can include in the staging area all the files affected by one logical change and then execute the commit command.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Some situations where branches would be helpful would be when testing new functionality, advance with a new version code while mantaining the actual one or testing possible bug correction strategies. Branches help mantaining separated code versions in a managed way.
