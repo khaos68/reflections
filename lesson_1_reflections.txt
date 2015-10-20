@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that was
+introduced?
+
+An recently introduced bug is almost because a modification on the code, so it is 
+reasonable to asume that finding the diferences between the current a former versions of
+the file will help us to find the modification that is causing the bug.
+
+
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+Being able to review the evolution of the code used for resolving differente type of 
+problems will help me to understand the nature of the evolution, the why's and how's and 
+learn from my own work.
+Moreover, it could help me to return to an older version if the changes done after it 
+don't result as expected.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The evident pros is total control over when a what is included in each commit, one con
+would be that it can be forgotten to do.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in 
+one commit, while others, like Google Docs, treat each file separately?
+
+It all depends if there of the type of use for the files that the version control system 
+is supposed to save.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+The git log command is used to list all the commits of the repository while de diff 
+command is used to show the differences between two commits. So, we use the log to list
+and identify the commits we want to compare based on the date an comments and then we use
+the diff command to compare both of them.
+
+
+How might using version control make you more confident to make changes that could break
+something?
+
+Using version control reduces the risk of not loosing the correct path when coding or the 
+risk of not be able to return to the state previous to the change.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git to version control my iOS apps.
