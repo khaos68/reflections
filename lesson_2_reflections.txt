@@ -22,3 +22,8 @@ How do the diagrams help you visualize the branch structure?
 
 They visually show where in the commit history each new branch was made and which commits area included in each branch.
 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The code if the files is merged in one version code containing the modifications of both branches. We represente them as a the path retruning to the main path because we are merging both.
+
