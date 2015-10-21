@@ -27,3 +27,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The code if the files is merged in one version code containing the modifications of both branches. We represente them as a the path retruning to the main path because we are merging both.
 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic commits covers almost all scenarios so for the most cases is a quicker more efficient way of mergin branchs. Manually, although, is more precise is only neceesarry when automatic commit can resolve the issues.
+
