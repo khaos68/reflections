@@ -1,16 +1,11 @@
-When would you want to use a remote repository rather than keeping all your work local?
+Q1. When would you want to use a remote repository rather than keeping all your work local?
+A1. I would use a remote repository when I work from different computers or when more people are expected to work on the same files.
 
-I would use a remote repository when I work from different computers or when more people are expected to work on the same files.
+Q2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A2. Because I might be working on a branch with other people and I likely will not desire that a change in a particular file in the remote repository automatically update a file I am working on. 
 
-
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-
-Because I might be working on a branch with other people and I likely will not desire that a change in a particular file in the remote repository automatically update a file I am working on. 
-
-
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
-
-Fork, when the branch of other user is cloned to my account leaving a trace of the original creator.
+Q3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A3. Fork, when the branch of other user is cloned to my account leaving a trace of the original creator.
 Clone, when a branch of other user is copied without leaving trace of the original branch.
 Branch, a group of related commits. Starting in the "tip" and following the child/father relation until the initial commmit.
 
@@ -18,9 +13,8 @@ Fork would be used when I want to start a branch based in the work of other user
 Clone should be used when I want to copy a branch to my computer.
 Branch is used to create a branch from the original branch to start working in possible change independently from the original branch.
 
+Q4. What is the benefit of having a copy of the last known state of the remote stored locally?
+A4. That I can make compares (diff / status) while being offline against the remote branch.
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
-
-That I can make compares (diff / status) while being offline against the remote branch.
-
-
+Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A5. May be using a ftp server or a online folder solution like Dropbox, but both solution will be very cumbersome to maintain as a true version-control is no implemented in neither solutions.
