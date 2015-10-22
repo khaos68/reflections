@@ -19,4 +19,8 @@ Clone should be used when I want to copy a branch to my computer.
 Branch is used to create a branch from the original branch to start working in possible change independently from the original branch.
 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+That I can make compares (diff / status) while being offline against the remote branch.
+
 
